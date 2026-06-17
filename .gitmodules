@@ -1,0 +1,7 @@
+[submodule "projects/projects/CACHE"]
+        path = projects/CACHE
+        url = https://github.com/VladTomici14/CACHE
+
+[submodule "projects/projects/ALU"]
+        path = projects/ALU
+        url = https://github.com/VladTomici14/ALU 
