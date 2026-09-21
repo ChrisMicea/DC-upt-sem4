@@ -1,6 +1,6 @@
 [submodule "projects/CACHE"]
 	path = projects/CACHE
-	url = https://github.com/VladTomici14/CACHE
+	url = https://github.com/ChrisMicea/DC_CACHE
 [submodule "projects/ALU"]
 	path = projects/ALU
-	url = https://github.com/VladTomici14/ALU
+	url = https://github.com/ChrisMicea/DC_ALU
